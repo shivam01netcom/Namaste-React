@@ -38,7 +38,7 @@ To start exploring the React.js series, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-  cd reactjs-series
+   cd reactjs-series
 
 3. You may find each topic in its respective folder. Explore the topics you're interested in to access code examples and explanations.
 
