@@ -8,7 +8,7 @@ Welcome to the React.js Series repository, where we explore React.js concepts fr
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 React.js is a powerful JavaScript library for building user interfaces. This repository is dedicated to helping you master React.js, whether you're starting from scratch or aiming to dive deeper into advanced concepts.
